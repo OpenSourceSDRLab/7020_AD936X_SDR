@@ -6,3 +6,6 @@ Custom Hardware and Firmware Files for the 7020_AD936X_SDR
 ![alt](https://github.com/OpenSourceSDRLab/7020_AD936X_SDR/blob/main/images/PlutoSky-2.jpg)
 
 ![alt](https://github.com/OpenSourceSDRLab/7020_AD936X_SDR/blob/main/images/PlutoSky-3.jpg)
+
+Buy it here:
+[PlutoSky](https://opensourcesdrlab.com/products/opensourcesdrlab-7020-sdr-ad9361-ad9363-development-board-with-pa-for-pluto-matlab-software-defined-radio?VariantsId=10361)
